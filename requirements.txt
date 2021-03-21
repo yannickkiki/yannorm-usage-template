@@ -1,0 +1,2 @@
+-e git+https://github.com/yannickkiki/yann-orm.git@master#egg=yannorm
+-e .
